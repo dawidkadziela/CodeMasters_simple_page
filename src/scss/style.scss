@@ -1,0 +1,17 @@
+@import "_variables";
+@import "partials/_normalize";
+@import "partials/_print";
+@import "partials/_global-class.scss"; //globalne klasy jak btn, row, col
+@import "partials/_layout.scss"; //layout
+
+@import "components/_main-form.scss"; //glowny formularz
+@import "components/_form.scss"; //formularz
+@import "components/_main-banner.scss"; //glowny baner
+@import "components/_banner.scss"; //baner
+@import "components/_page-header.scss"; //naglowek
+@import "components/_page-nav.scss"; //nawigacja
+@import "components/_main-paralax.scss"; //paralax
+@import "components/_main-map.scss"; //glowna mapa
+@import "components/_box.scss"; //box w kolumnach - te ze zdjeciami
+@import "components/_main-our-team.scss"; //lista nauczycieli wyglada nieco inaczej...
+@import "components/_page-footer.scss"; //stopka
